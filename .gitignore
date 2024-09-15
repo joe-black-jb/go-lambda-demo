@@ -1,0 +1,6 @@
+.terraform
+localstack-data
+main
+main.zip
+*.tfstate
+*.backup
